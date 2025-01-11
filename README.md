@@ -8,7 +8,7 @@
 
 ---
 
-### Вторая часть
+### Вторая часть:
 
   https://yandex.ru/yaintern/training/ml-training
 
